@@ -10,7 +10,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Amazon Sales Dashboard](dashboard/Amazon_Dashboard.png)
+![Amazon Sales Dashboard](https://github.com/DataWithDilkhush/Amazon-Sales-Analysis-Excel/blob/main/Amazon%20Sales%20Dashboard%20Image/Amazon%20Sales%20Dashboard.png)
 
 > *A dynamic Excel dashboard featuring KPI cards, category-wise revenue breakdown, country analysis, monthly trends, order status distribution, and top product rankings — all powered by Pivot Tables and Excel formulas.*
 
@@ -111,6 +111,8 @@ Raw order data in Excel alone cannot answer these questions quickly.
 To build a **single-sheet, interactive Excel dashboard** using **Pivot Tables and Charts** that gives e-commerce analysts a complete view of Amazon sales performance — from overall KPIs down to product-level and country-level breakdowns.
 
 ---
+
+![Amazon Sales Dashboard](https://github.com/DataWithDilkhush/Amazon-Sales-Analysis-Excel/blob/main/Amazon%20Sales%20Dashboard%20Image/Amazon%20Dashboard%20Excel.png)
 
 ### 🔍 Walkthrough of Key Visuals
 
