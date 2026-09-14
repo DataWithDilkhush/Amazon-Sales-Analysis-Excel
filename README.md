@@ -262,11 +262,11 @@ git clone https://github.com/DataWithDilkhush/amazon-sales-dashboard-excel.git
 ```
 
 ### Step 2 — Open Raw Data
-- Open `dataset/Amazon_Sales_Data.xlsx`
+- Open `(https://github.com/DataWithDilkhush/Amazon-Sales-Analysis-Excel/blob/main/Amazon%20Sales%20Data.xlsx)`
 - Explore 4 sheets: Orders, Products, Customers, Order_date
 
 ### Step 3 — Open Dashboard
-- Open `dashboard/Amazon_Dashboard.xlsx`
+- Open `https://github.com/DataWithDilkhush/Amazon-Sales-Analysis-Excel/blob/main/Amazon%20Dashboard.xlsx`
 - Go to **Dashboard** sheet — all visuals are here
 - Use **dropdown filters** to slice by Year, Category, Country
 
@@ -321,9 +321,8 @@ git clone https://github.com/DataWithDilkhush/amazon-sales-dashboard-excel.git
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DataWithDilkhush)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+![LinkedIn](https://linkedin.com/in/dilkhush-godsay)
+![GitHub](https://github.com/DataWithDilkhush)
 
 ---
 
